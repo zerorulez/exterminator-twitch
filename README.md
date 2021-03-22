@@ -16,7 +16,12 @@ npm install
 ## Usage example
 Copy and rename .env.example to .env
 
-Fill in your Twitch username and your Twitch ouath password
+Fill in your Twitch username and your Twitch ouath password on the .env file
+
+```sh
+TWITCH_USERNAME=YourUsernameHere
+TWITCH_OAUTH=oauth:PasswordHere
+```
 
 Start application
 ```sh
