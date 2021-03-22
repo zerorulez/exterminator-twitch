@@ -9,7 +9,7 @@
     "start": "node src/index"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lucas Ribeiro",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
